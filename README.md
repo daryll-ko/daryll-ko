@@ -6,7 +6,7 @@ As a cherry on top, I like **reflecting** on the things I do in order to course-
 
 Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so.
 
-You can find me at the following places:
+Here are some places where you can find me:
 
 <div align="center">
   <a href="https://www.facebook.com/daryll.ko.3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" alt="facebook" height="48"></a>
