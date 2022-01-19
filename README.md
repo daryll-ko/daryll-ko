@@ -9,10 +9,10 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 Here are some places where you can find me:
 
 <div align="center">
-  <a href="https://www.facebook.com/daryll.ko.3" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" alt="facebook" height="48"></a>
-  <a href="https://twitter.com/daryll_ko" target="_blank"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" height="48"></a>
-  <a href="https://anilist.co/user/daryll" target="_blank"><img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" height="48"></a>
-  <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" height="48"></a>
+  <a href="https://www.facebook.com/daryll.ko.3" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" alt="facebook" height="48"></a>
+  <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" height="48"></a>
+  <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer"><img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" height="48"></a>
+  <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" height="48"></a>
 </div>
 
 ## 📌 Pins
