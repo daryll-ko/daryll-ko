@@ -11,7 +11,7 @@ You can find me at the following places:
 <a href="https://www.facebook.com/daryll.ko.3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png" alt="facebook" height="48"></a>
 <a href="https://twitter.com/daryll_ko"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" height="48"></a>
 <a href="https://anilist.co/user/daryll"><img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" height="48"></a>
-<a href="https://www.linkedin.com/in/daryll-ko/"><img src="http://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="linkedin" height="48"></a>
+<a href="https://www.linkedin.com/in/daryll-ko/"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" height="48"></a>
 
 ## 📌 Pins
 
