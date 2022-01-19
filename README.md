@@ -8,4 +8,4 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 # 📌 Pins
 
-[![rp](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=rp&show_owner=true)](https://github.com/daryll-ko/rp)
+[![rp](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=rp&show_owner=true&theme=highcontrast)](https://github.com/daryll-ko/rp)
