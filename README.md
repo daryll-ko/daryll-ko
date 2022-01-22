@@ -19,6 +19,7 @@ Here are some more places where you can find me:
 
 <div align="center">
 
-
+[![recreational-programming](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=recreational-programming&show_owner=true&theme=github_dark)](https://github.com/daryll-ko/rp)
+[![tutorial-projects](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=tutorial-projects&show_owner=true&theme=github_dark)](https://github.com/daryll-ko/tutorial-projects)
 
 </div>
