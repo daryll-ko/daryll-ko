@@ -1,8 +1,6 @@
 ## 🙂 Hello!
 
-I'm Daryll. I **write code** to streamline repetitive tasks and tackle abstract problems, **watch anime** and **read light novels** to meet new characters and shape my life principles, and **learn how to learn** to continuously reach greater heights as a person.
-
-I also **reflect** on the things I do in order to course-correct if things don't go as planned, make realizations that I would've missed, or give myself a high-five if everything does work out.
+I'm Daryll. I'm a **programmer** who streamlines repetitive tasks and deconstructs abstract problems, a **learner** who aims to continuously reach greater heights as a person, and a **writer** who reflects on the things he does to course correct, make realizations, or give himself a mental high-five. I also **watch anime** and **read light novels** to meet new characters and shape my life principles!
 
 Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so.
 
