@@ -16,8 +16,8 @@ Here are some more places where you can find me:
 
 <div align="center">
 
-[![recreational](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=recreational&theme=github_dark)](https://github.com/daryll-ko/recreational)
-[![tutorial](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=tutorial&theme=github_dark)](https://github.com/daryll-ko/tutorial)
 [![Poke-Man](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=Poke-man&theme=github_dark)](https://github.com/daryll-ko/Poke-man)
+[![tutorial](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=tutorial&theme=github_dark)](https://github.com/daryll-ko/tutorial)
+[![recreational](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=recreational&theme=github_dark)](https://github.com/daryll-ko/recreational)
 
 </div>
