@@ -7,9 +7,9 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 Here are some more places where you can find me:
 
 <div align="center">
+    <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" style="height: 4rem;"></a>
     <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" style="height: 4rem;"></a>
     <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer"><img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" style="height: 4rem;"></a>
-    <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" style="height: 4rem;"></a>
 </div>
 
 ## 📌 Pins
