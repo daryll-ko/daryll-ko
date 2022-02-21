@@ -1,10 +1,10 @@
-## 🙂 Hello!
+## 🙂 Hi!
 
-I'm Daryll. I'm a **programmer** who streamlines repetitive tasks and deconstructs abstract problems, a **learner** who aims to continuously reach greater heights as a person, and a **writer** who reflects on the things he does to course correct, make realizations, or give himself a mental high-five. I also **watch anime** and **read light novels** to meet new characters and shape my life principles!
+I'm Daryll. I like 💻 **programming** to make my life easier, **writing** to reflect on the things I do, and 🧠 **learning how to learn** to ensure that I go about my day efficiently. On the side, I 📺 **watch anime**, 📚 **read light novels**, and 🐁 **play a lot of Pokémon**!
 
 Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so.
 
-Here are some more places where you can find me:
+Here are some other places where you can find me:
 
 <div align="center">
     <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" style="height: 4rem;"></a>
@@ -13,6 +13,8 @@ Here are some more places where you can find me:
 </div>
 
 ## 📌 Pins
+
+These are projects and creations that have had an impact on my programming journey and will remain close to my heart for a very long time.
 
 <div align="center">
 
