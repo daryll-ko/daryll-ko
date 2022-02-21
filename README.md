@@ -19,7 +19,6 @@ These are projects and creations that have had an impact on my programming journ
 <div align="center">
 
 [![Poke-Man](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=Poke-man&theme=github_dark)](https://github.com/daryll-ko/Poke-man)
-[![tutorial](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=tutorial&theme=github_dark)](https://github.com/daryll-ko/tutorial)
 [![recreational](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=recreational&theme=github_dark)](https://github.com/daryll-ko/recreational)
 
 </div>
