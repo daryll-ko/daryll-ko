@@ -1,6 +1,6 @@
 ## 🙂 Hi!
 
-I'm Daryll. I like 💻 **programming** to make my life easier, **writing** to reflect on the things I do, and 🧠 **learning how to learn** to ensure that I go about my day efficiently. On the side, I also like to 📺 **watch anime**, 📚 **read light novels**, and 🐁 **play a lot of Pokémon**!
+I'm Daryll. I like 💻 **programming** to make my life easier, ✍🏻 **writing** to reflect on the things I do, and 🧠 **learning how to learn** to ensure that I go about my day efficiently. On the side, I also like to 📺 **watch anime**, 📚 **read light novels**, and 🐁 **play a lot of Pokémon**!
 
 Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so.
 
