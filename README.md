@@ -1,24 +1,40 @@
-## 🙂 Hi!
+## 🙍🏻‍♂️ Hi!
 
-I'm Daryll. I like 💻 **programming** to make my life easier, ✍🏻 **writing** to reflect on the things I do, and 🧠 **learning how to learn** to ensure that I go about my days efficiently. On the side, I also love to 📺 **watch anime**, 📚 **read light novels**, and 🐁 **play a lot of Pokémon**!
+I'm Daryll. I 💻 **program** to make my life easier and ✍🏻 **reflect** to make others' lives easier. On the side, I 🇯🇵 watch and read anime and light novels, 🧠 learn more about learning, and 🐭 go out in the wild to catch Pokémon!
 
 Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so.
 
 Here are some other places where you can find me:
 
 <div align="center">
-    <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" style="height: 4rem;"></a>
-    <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" style="height: 4rem;"></a>
-    <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer"><img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" style="height: 4rem;"></a>
+  <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
+    <img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" style="height: 3rem; border-radius: 50%;">
+  </a>
+  <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
+    <img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" style="height: 3rem;">
+  </a>
+  <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
+    <img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" style="height: 3rem;">
+  </a>
 </div>
 
 ## 📌 Pins
 
-These are projects and creations that have had an impact on my programming journey and will remain close to my heart for a very long time.
+Creations that will remain close to my heart as a programmer.
 
 <div align="center">
-
-[![Poke-Man](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=Poke-man&theme=github_dark)](https://github.com/daryll-ko/Poke-man)
-[![recreational](https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=recreational&theme=github_dark)](https://github.com/daryll-ko/recreational)
-
+  <br>
+  <a href="https://github.com/daryll-ko/poke-man">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=poke-man&bg_color=-5,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/daryll-ko/style-guide">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=style-guide&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/daryll-ko/rec-prog">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=rec-prog&bg_color=15,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA" />
+  </a>
 </div>
