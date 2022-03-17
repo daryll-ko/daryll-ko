@@ -8,10 +8,13 @@ Here are some other places where you can find me:
 
 <div align="center">
   <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
-    <img src="./images/twitter.webp" alt="twitter" style="height: 3rem;">
+    <img src="./images/twitter.webp" alt="Twitter" style="height: 3rem;">
   </a>
   <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
-    <img src="./images/linkedin.png" alt="linkedin" style="height: 3rem;">
+    <img src="./images/linkedin.png" alt="LinkedIn" style="height: 3rem;">
+  </a>
+  <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
+    <img src="./images/anilist.webp" alt="AniList" style="height: 3rem;">
   </a>
 </div>
 
