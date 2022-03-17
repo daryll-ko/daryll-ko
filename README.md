@@ -14,7 +14,7 @@
 
 <br>
 
-⌨️ I write programs to make my life easier.
+💻 I write programs to make my life easier.
 
 <br>
 
