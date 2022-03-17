@@ -8,7 +8,7 @@ Here are some other places where you can find me:
 
 <div align="center">
   <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png" alt="twitter" style="height: 3rem; border-radius: 50%;">
+    <img src="./images/twitter.webp" alt="twitter" style="height: 3rem; border-radius: 50%;">
   </a>
   <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
     <img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" style="height: 3rem;">
