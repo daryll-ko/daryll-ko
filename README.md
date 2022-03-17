@@ -51,12 +51,12 @@ Here are some creations that I'm especially proud of!
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=poke-man&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
   </a>
   <br>
-  <div align="center">
-    <img src="./images/html.png" alt="HTML" style="height: 3rem;">
-    <img src="./images/css.png" alt="CSS" style="height: 3rem;">
-    <img src="./images/js.jpeg" alt="JavaScript" style="height: 3rem;">
-  </div>
   <br>
+  <div align="center">
+    <img src="./images/html.png" alt="HTML" style="height: 2rem;">
+    <img src="./images/css.png" alt="CSS" style="height: 2rem;">
+    <img src="./images/js.jpeg" alt="JavaScript" style="height: 2rem;">
+  </div>
   An attempt at creating a Pac-Man game that kinda spiralled out of control...
   <br>
   <br>
