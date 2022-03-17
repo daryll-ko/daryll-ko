@@ -16,6 +16,8 @@
 
 ⌨️ I write programs to make my life easier.
 
+<br>
+
 I'm primarily a frontend web developer who's wrapped their heads around the following technologies:
 
 <div align="center">
@@ -26,6 +28,8 @@ I'm primarily a frontend web developer who's wrapped their heads around the foll
   <img src="./images/ts.png" alt="TypeScript" style="height: 3rem;">
   <img src="./images/react.png" alt="React" style="height: 3rem;">
 </div>
+
+<br>
 
 ✍🏻 I write reflections to make your life easier!
 
