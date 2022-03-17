@@ -13,9 +13,6 @@ Here are some other places where you can find me:
   <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
     <img src="https://bankimooncentre.org/wp-content/uploads/2020/05/LinkedIn-Icon-Square.png" alt="linkedin" style="height: 3rem;">
   </a>
-  <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
-    <img src="https://anilist.co/img/icons/android-chrome-512x512.png" alt="anilist" style="height: 3rem;">
-  </a>
 </div>
 
 ## 📌 Pins
