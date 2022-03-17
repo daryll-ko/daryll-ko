@@ -1,22 +1,28 @@
-## 🙍🏻‍♂️ Hi!
+## 🙍🏻‍♂️ Hi! I'm Daryll.
 
-I'm Daryll. I 💻 **program** to make my life easier and ✍🏻 **reflect** to make others' lives easier. On the side, I 🇯🇵 watch and read anime and light novels, 🧠 learn more about learning, and 🐭 go out in the wild to catch Pokémon!
-
-Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so.
-
-Here are some other places where you can find me:
-
-<div align="center">
+<div align="start">
   <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
-    <img src="./images/twitter.webp" alt="Twitter" style="height: 3rem;">
+    <img src="./images/twitter.webp" alt="Twitter" style="height: 2rem;">
   </a>
   <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
-    <img src="./images/linkedin.png" alt="LinkedIn" style="height: 3rem;">
+    <img src="./images/linkedin.png" alt="LinkedIn" style="height: 2rem;">
   </a>
   <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
-    <img src="./images/anilist.webp" alt="AniList" style="height: 3rem;">
+    <img src="./images/anilist.webp" alt="AniList" style="height: 2rem;">
   </a>
 </div>
+
+<br>
+
+⌨️ I write programs to make my life easier.
+
+I'm primarily a frontend web developer who's wrapped their heads around the following technologies:
+
+✍🏻 I write reflections to make your life easier!
+
+On the side, I'm a 🇯🇵 Japan enthusiast, 🧠 meta learner, and 🐭 Pokémon trainer.
+
+**Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so!**
 
 ## 📌 Pins
 
@@ -25,7 +31,7 @@ Here are some creations that I'm especially proud of!
 <div align="center">
   <br>
   <a href="https://github.com/daryll-ko/poke-man">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=poke-man&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=poke-man&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
   </a>
   <br>
   <br>
@@ -33,7 +39,7 @@ Here are some creations that I'm especially proud of!
   <br>
   <br>
   <a href="https://github.com/daryll-ko/style-guide">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=style-guide&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=style-guide&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
   </a>
   <br>
   <br>
@@ -41,7 +47,7 @@ Here are some creations that I'm especially proud of!
   <br>
   <br>
   <a href="https://github.com/daryll-ko/rec-prog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=rec-prog&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=rec-prog&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
   </a>
   <br>
   <br>
