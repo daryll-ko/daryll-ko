@@ -18,6 +18,15 @@
 
 I'm primarily a frontend web developer who's wrapped their heads around the following technologies:
 
+<div align="center">
+  <img src="./images/html.png" alt="HTML" style="height: 3rem;">
+  <img src="./images/css.png" alt="CSS" style="height: 3rem;">
+  <img src="./images/js.jpeg" alt="JavaScript" style="height: 3rem;">
+  <img src="./images/sass.png" alt="Sass" style="height: 3rem;">
+  <img src="./images/ts.png" alt="TypeScript" style="height: 3rem;">
+  <img src="./images/react.png" alt="React" style="height: 3rem;">
+</div>
+
 ✍🏻 I write reflections to make your life easier!
 
 On the side, I'm a 🇯🇵 Japan enthusiast, 🧠 meta learner, and 🐭 Pokémon trainer.
