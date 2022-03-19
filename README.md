@@ -5,7 +5,7 @@
     <img src="./images/twitter.webp" alt="Twitter" style="height: 2rem;">
   </a>
   <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
-    <img src="./images/linkedin.png" alt="LinkedIn" style="height: 2rem;">
+    <img src="./images/linkedin.webp" alt="LinkedIn" style="height: 2rem;">
   </a>
   <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
     <img src="./images/anilist.webp" alt="AniList" style="height: 2rem;">
@@ -21,12 +21,12 @@
 I'm primarily a frontend web developer who's wrapped their heads around the following technologies:
 
 <div align="center">
-  <img src="./images/html.png" alt="HTML" style="height: 3rem;">
-  <img src="./images/css.png" alt="CSS" style="height: 3rem;">
-  <img src="./images/js.jpeg" alt="JavaScript" style="height: 3rem;">
-  <img src="./images/sass.png" alt="Sass" style="height: 3rem;">
-  <img src="./images/ts.png" alt="TypeScript" style="height: 3rem;">
-  <img src="./images/react.png" alt="React" style="height: 3rem;">
+  <img src="./images/html.webp" alt="HTML" style="height: 3rem;">
+  <img src="./images/css.webp" alt="CSS" style="height: 3rem;">
+  <img src="./images/js.webp" alt="JavaScript" style="height: 3rem;">
+  <img src="./images/sass.webp" alt="Sass" style="height: 3rem;">
+  <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
+  <img src="./images/react.webp" alt="React" style="height: 3rem;">
 </div>
 
 <br>
@@ -53,9 +53,9 @@ Here are some creations that I'm especially proud of!
   <br>
   <br>
   <div align="center">
-    <img src="./images/html.png" alt="HTML" style="height: 2rem;">
-    <img src="./images/css.png" alt="CSS" style="height: 2rem;">
-    <img src="./images/js.jpeg" alt="JavaScript" style="height: 2rem;">
+    <img src="./images/html.webp" alt="HTML" style="height: 2rem;">
+    <img src="./images/css.webp" alt="CSS" style="height: 2rem;">
+    <img src="./images/js.webp" alt="JavaScript" style="height: 2rem;">
   </div>
   <br>
   An attempt at creating a Pac-Man game that kinda spiralled out of control...
@@ -81,7 +81,7 @@ Here are some creations that I'm especially proud of!
   <br>
   <br>
   <div align="center">
-    <img src="./images/c++.png" alt="C++" style="height: 2rem;">
+    <img src="./images/c++.webp" alt="C++" style="height: 2rem;">
     <img src="./images/python.webp" alt="Python" style="height: 2rem;">
   </div>
   <br>
