@@ -29,7 +29,7 @@ I'm a fullstack web developer who's familiar with the following technologies:
 
 <br>
 
-Anyways, what do I do? I 💻 write programs to make my life easier, and I ✍🏻 reflect on what I've done to make other people's lives easier.
+So, what do I do? I 💻 write programs to make my life easier, and I ✍🏻 reflect on what I've done to make other people's lives easier.
 
 On the side, I also enjoy 🇯🇵 anime and light novels, 🧠 learning how to learn, and all things 🐭 Pokémon.
 
