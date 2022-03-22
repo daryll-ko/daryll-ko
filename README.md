@@ -14,11 +14,7 @@
 
 <br>
 
-💻 I write programs to make my life easier.
-
-<br>
-
-I'm primarily a frontend web developer who's wrapped their heads around the following technologies:
+I'm a fullstack web developer who's familiar with the following technologies:
 
 <div align="center">
   <img src="./images/html.webp" alt="HTML" style="height: 3rem;">
@@ -27,19 +23,17 @@ I'm primarily a frontend web developer who's wrapped their heads around the foll
   <img src="./images/sass.webp" alt="Sass" style="height: 3rem;">
   <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
   <img src="./images/react.webp" alt="React" style="height: 3rem;">
+  <img src="./images/styled-components.webp" alt="styled-components" style="height: 3rem;">
+  <img src="./images/vite.svg" alt="vite" style="height: 3rem;">
 </div>
 
 <br>
 
-✍🏻 I write reflections to make your life easier!
+Anyways, what do I do? I 💻 write programs to make my life easier, and I ✍🏻 reflect on what I've done to make other people's lives easier.
 
-<br>
-
-On the side, I'm a 🇯🇵 Japan enthusiast, 🧠 meta learner, and 🐭 Pokémon trainer.
+On the side, I also enjoy 🇯🇵 anime and light novels, 🧠 learning how to learn, and all things 🐭 Pokémon.
 
 **Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so!**
-
-<br>
 
 ## 📌 Pins
 
