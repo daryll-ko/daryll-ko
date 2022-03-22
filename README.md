@@ -21,8 +21,8 @@ I'm a fullstack web developer who's familiar with the following technologies:
   <img src="./images/css.webp" alt="CSS" style="height: 3rem;">
   <img src="./images/js.webp" alt="JavaScript" style="height: 3rem;">
   <img src="./images/sass.webp" alt="Sass" style="height: 3rem;">
-  <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
   <img src="./images/react.webp" alt="React" style="height: 3rem;">
+  <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
   <img src="./images/styled-components.webp" alt="styled-components" style="height: 3rem;">
   <img src="./images/vite.svg" alt="vite" style="height: 3rem;">
 </div>
