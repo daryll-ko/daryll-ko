@@ -58,6 +58,8 @@ Here are some creations that I'm especially proud of!
   <div align="center">
     <img src="./images/react.webp" alt="React" style="height: 2rem;">
     <img src="./images/ts.webp" alt="TypeScript" style="height: 2rem;">
+    <img src="./images/styled-components.webp" alt="styled-components" style="height: 2rem;">
+    <img src="./images/vite.svg" alt="Vite" style="height: 2rem;">
     •〜•
     <img src="./images/html.webp" alt="HTML" style="height: 2rem;">
     <img src="./images/css.webp" alt="CSS" style="height: 2rem;">
