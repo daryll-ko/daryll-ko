@@ -30,6 +30,8 @@ Doing all of this sounds complex in and of itself, but with frameworks, systems,
 
 **Life is about enjoying one big, complex journey, and I hope this place gives you a glimpse of how I do so.**
 
+<br>
+
 ## ⚙️ Tech Stack
 
 If you haven't realized it yet, I like simplicity!
