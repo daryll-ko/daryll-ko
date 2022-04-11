@@ -14,30 +14,58 @@
 
 <br>
 
-I'm a fullstack web developer who's familiar with the following technologies:
+I'm a fan of simple things.
+
+I'll take anything that exhibits simplicity, really—computational problems that topple after a single key idea, stories that warm the heart through lovable characters, and philosophies that make life as tranquil of a journey as it can be.
+
+But come on, life's pretty complex. Which brings us to what I like doing.
+
+I'll happily play around with web technologies to make the online world a simpler and more meaningful place.
+
+I'll eagerly learn theoretical topics in math and computer science to make the problem-solving process as simple as it can be.
+
+I'll gleefully watch and read fictional tales to see reality as the ultimate form of simplicity.
+
+Doing all of this sounds complex in and of itself, but with frameworks, systems, and beliefs that facilitate the whole process, nothing stands in the way of hope and determination.
+
+**Life is about enjoying one big, complex journey, and I hope this place gives you a glimpse of how I do so.**
+
+## ⚙️ Tech Stack
+
+If you haven't realized it yet, I like simplicity!
+
+Here are the tools I use:
 
 <div align="center">
-  <img src="./images/html.webp" alt="HTML" style="height: 3rem;">
-  <img src="./images/css.webp" alt="CSS" style="height: 3rem;">
-  <img src="./images/js.webp" alt="JavaScript" style="height: 3rem;">
-  <img src="./images/sass.webp" alt="Sass" style="height: 3rem;">
-  <img src="./images/react.webp" alt="React" style="height: 3rem;">
-  <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
-  <img src="./images/styled-components.webp" alt="styled-components" style="height: 3rem;">
-  <img src="./images/vite.svg" alt="vite" style="height: 3rem;">
+  <h3>General</h3>
+  <img src="./images/rust.png" alt="Rust" style="height: 3rem;">
+  <img src="./images/haskell.webp" alt="Haskell" style="height: 3rem;">
 </div>
 
 <br>
 
-So, what do I do? I 💻 write programs to make my life easier, and I ✍🏻 reflect on what I've done to make others' lives easier.
+<div align="center">
+  <h3>Web</h3>
+  <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
+  <img src="./images/next.webp" alt="Next" style="height: 3rem;">
+  <img src="./images/styled-components.webp" alt="styled-components" style="height: 3rem;">
+  <img src="./images/vite.svg" alt="Vite" style="height: 3rem;">
+  <img src="./images/cypress.png" alt="Cypress" style="height: 3rem;">
+</div>
 
-On the side, I also enjoy 🇯🇵 anime and light novels, 🧠 learning how to learn, and all things 🐭 Pokémon.
+<br>
 
-**Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so!**
+<div align="center">
+  <h3>If I'm in the mood to</h3>
+  <img src="./images/sass.webp" alt="Sass" style="height: 3rem;">
+  <img src="./images/jest.png" alt="Jest" style="height: 3rem;">
+  <img src="./images/c++.webp" alt="C++" style="height: 3rem;">
+  <img src="./images/python.webp" alt="Python" style="height: 3rem;">
+</div>
 
 ## 📌 Pins
 
-Here are some creations that I'm especially proud of!
+Here are creations that I'm especially proud of!
 
 <div align="center">
   <br>
