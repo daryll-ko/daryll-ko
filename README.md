@@ -40,6 +40,7 @@ Here are the tools I use:
   <h3>General</h3>
   <img src="./images/rust.png" alt="Rust" style="height: 3rem;">
   <img src="./images/haskell.webp" alt="Haskell" style="height: 3rem;">
+  <img src="./images/git.png" alt="Git" style="height: 3rem;">
 </div>
 
 <br>
