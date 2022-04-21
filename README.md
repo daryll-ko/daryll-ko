@@ -1,18 +1,18 @@
-## 🙍🏻‍♂️ Hi! I'm Daryll.
+<img src="images/logo.png" width="100%">
 
-<div align="start">
+<div align="center">
   <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
-    <img src="./images/twitter.webp" alt="Twitter" style="height: 2rem;">
+    <img src="https://img.shields.io/static/v1?label=&logo=twitter&message=Twitter&labelColor=262A33&color=262A33">
   </a>
-  <a href="https://www.linkedin.com/in/daryll-ko/" target="_blank" rel="noopener noreferrer">
-    <img src="./images/linkedin.webp" alt="LinkedIn" style="height: 2rem;">
+  <a href="https://www.linkedin.com/in/daryll-ko" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=LinkedIn&labelColor=262A33&color=262A33">
   </a>
   <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
-    <img src="./images/anilist.webp" alt="AniList" style="height: 2rem;">
+    <img src="https://img.shields.io/static/v1?label=&logo=anilist&message=AniList&labelColor=262A33&color=262A33">
   </a>
 </div>
 
-<br>
+## 🙍🏻‍♂️ Hi! I'm Daryll.
 
 I'm a fan of simple things.
 
