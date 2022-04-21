@@ -107,15 +107,4 @@ Here are creations that I'm especially proud of!
   </div>
   <br>
   I <i>love</i> coding challenges! I do competitive programming—without the 'competitive' part—as a hobby.
-  <br>
-  <br>
-  •〜•
-  <br>
-  <br>
-  <a href="https://github.com/daryll-ko/style-guide">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=style-guide&bg_color=0,cb0b0b,d5340b,d84a0e,e15f14,e46f1b,e98125,ee8f2f,f29d3a,f7af4a&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
-  </a>
-  <br>
-  <br>
-  My philosophy towards life is mostly based on essentialism; this is a mental framework I've curated using that philosophy!
 </div>
