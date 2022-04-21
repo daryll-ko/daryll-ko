@@ -1,4 +1,6 @@
-<img src="images/logo.png" width="100%">
+<div align="center">
+  <img src="images/logo.png" width="25%">
+</div>
 
 <div align="center">
   <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
