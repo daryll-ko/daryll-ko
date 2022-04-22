@@ -26,7 +26,7 @@ I also love writing, metacognition, and Japanese culture. Coding is cool, but th
 
 Anyways, I could go on and on about any of these, but I think it'd be better to let you take a look around for yourself.
 
-Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so! ꒰･‿･๑꒱
+Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so! ꒰ ･‿･๑ ꒱
 
 <br>
 
