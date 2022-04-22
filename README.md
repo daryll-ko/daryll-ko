@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.png" width="40%">
+  <img src="assets/logo.png" width="40%" alt="logo">
 </div>
 
 <div align="center">
@@ -14,99 +14,181 @@
   </a>
 </div>
 
-## 🙍🏻‍♂️ Hi! I'm Daryll.
+<br>
 
-I'm a fan of simple things.
+<h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
-I'll take anything that exhibits simplicity, really—computational problems that topple after a single key idea, stories that warm the heart through lovable characters, and philosophies that make life as tranquil of a journey as it can be.
+I'm a CS student specializing in web development (primarily frontend) and theoretical CS (theory of computation, algorithms & data structures).
 
-But come on, life's pretty complex. Which brings us to what I like doing.
+My life philosophy is all about simplicity and organization, and I use what I learn to continuously develop this.
 
-I'll happily play around with web technologies to make the online world a simpler and more meaningful place.
+I also love writing, metacognition, and Japanese culture. Coding is cool, but these have made the experience even cooler!
 
-I'll eagerly learn theoretical topics in math and computer science to make the problem-solving process as simple as it can be.
+Anyways, I could go on and on about any of these, but I think it'd be better to let you take a look around for yourself.
 
-I'll gleefully watch and read fictional tales to see reality as the ultimate form of simplicity.
-
-Doing all of this sounds complex in and of itself, but with frameworks, systems, and beliefs that facilitate the whole process, nothing stands in the way of hope and determination.
-
-**Life is about enjoying one big, complex journey, and I hope this place gives you a glimpse of how I do so.**
+Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so! ꒰･‿･๑꒱
 
 <br>
 
-## ⚙️ Tech Stack
+<h2>⚙️ Tech Stack</h2>
 
-If you haven't realized it yet, I like simplicity!
+I like to keep my primary toolbelt (★) small, but I <i>am</i> familiar with a lot of things.
 
-Here are the tools I use:
+<br>
 
 <div align="center">
-  <h3>General</h3>
-  <img src="./images/rust.png" alt="Rust" style="height: 3rem;">
-  <img src="./images/haskell.webp" alt="Haskell" style="height: 3rem;">
-  <img src="./images/git.png" alt="Git" style="height: 3rem;">
+  <h3>Systems / Coding Challenges</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust ★&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2b%2b&labelColor=262A33&color=262A33">
 </div>
 
 <br>
 
 <div align="center">
-  <h3>Web</h3>
-  <img src="./images/ts.webp" alt="TypeScript" style="height: 3rem;">
-  <img src="./images/next.webp" alt="Next" style="height: 3rem;">
-  <img src="./images/styled-components.webp" alt="styled-components" style="height: 3rem;">
-  <img src="./images/vite.svg" alt="Vite" style="height: 3rem;">
-  <img src="./images/cypress.png" alt="Cypress" style="height: 3rem;">
-</div>
-
-<br>
-
-<div align="center">
-  <h3>If I'm in the mood to</h3>
-  <img src="./images/sass.webp" alt="Sass" style="height: 3rem;">
-  <img src="./images/jest.png" alt="Jest" style="height: 3rem;">
-  <img src="./images/c++.webp" alt="C++" style="height: 3rem;">
-  <img src="./images/python.webp" alt="Python" style="height: 3rem;">
-</div>
-
-## 📌 Pins
-
-Here are creations that I'm especially proud of!
-
-<div align="center">
-  <br>
-  <a href="https://github.com/daryll-ko/poke-man">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=poke-man&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
-  </a>
-  <a href="https://github.com/daryll-ko/poke-man-v1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=poke-man-v1&bg_color=0,650DD9,7B1DC9,9127BE,A42FB1,B536A2,C33C92,CF3F7B,DC4767,E94949,F45115&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
-  </a>
-  <br>
-  <br>
-  <div align="center">
-    <img src="./images/ts.webp" alt="TypeScript" style="height: 2rem;">
-    <img src="./images/react.webp" alt="React" style="height: 2rem;">
-    <img src="./images/styled-components.webp" alt="styled-components" style="height: 2rem;">
-    <img src="./images/vite.svg" alt="Vite" style="height: 2rem;">
-    〜 | 〜
-    <img src="./images/html.webp" alt="HTML" style="height: 2rem;">
-    <img src="./images/css.webp" alt="CSS" style="height: 2rem;">
-    <img src="./images/js.webp" alt="JavaScript" style="height: 2rem;">
+  <h3>Web Development</h3>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=html5&message=HTML& labelColor=262A33&color=262A33">
   </div>
-  <br>
-  An attempt at creating a Pac-Man game that kinda spiralled out of control...
-  <br>
-  <br>
-  •〜•
-  <br>
-  <br>
-  <a href="https://github.com/daryll-ko/rec-prog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daryll-ko&repo=rec-prog&bg_color=0,002a94,0048bd,0068d6,0084db,00a1d6,00babd,00d192,00eb62,00ff08&hide_border=true&text_color=DEFFCA&title_color=DEFFCA&icon_color=DEFFCA&border_radius=1em" />
-  </a>
-  <br>
-  <br>
-  <div align="center">
-    <img src="./images/rust.png" alt="Rust" style="height: 2rem;">
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components ★& labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=sass&message=Sass& labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=css3&message=CSS& labelColor=262A33&color=262A33">
   </div>
-  <br>
-  I <i>love</i> coding challenges! I do competitive programming—without the 'competitive' part—as a hobby.
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=javascript&message=JavaScript&labelColor=262A33&color=262A33">
+  </div>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=nextdotjs&message=Next.js&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=react&message=React ★&labelColor=262A33&color=262A33">
+  </div>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=express&message=Express&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=nodedotjs&message=Node.js&labelColor=262A33&color=262A33">
+  </div>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=redis&message=Redis&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&labelColor=262A33&color=262A33">
+  </div>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=graphql&message=GraphQL&labelColor=262A33&color=262A33">
+  </div>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=cypress&message=Cypress ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=jest&message=Jest&labelColor=262A33&color=262A33">
+  </div>
+  <div>
+    <img src="https://img.shields.io/static/v1?label=&logo=vite&message=Vite ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=webpack&message=Webpack&labelColor=262A33&color=262A33">
+  </div>
 </div>
+
+<br>
+
+<div align="center">
+  <h3>Meta</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=git&message=Git ★&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=github&message=GitHub ★&labelColor=262A33&color=262A33">
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Others</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=haskell&message=Haskell&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=figma&message=Figma&labelColor=262A33&color=262A33">
+</div>
+
+<br>
+
+<h2>📌 Pins</h2>
+
+Creations that I'm especially proud of!
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Voltorb Flip</h3>
+      <br>
+      <img src="assets/logo.png" alt="logo">
+      <div align="center">
+        <a href="" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
+        </a>
+        <a href="" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
+        </a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
+        <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&labelColor=262A33&color=262A33">
+        <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components&labelColor=262A33&color=262A33">
+      </div>
+      <p align="center">Voltorb Flip!</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Poké-Man</h3>
+      <br>
+      <img src="assets/logo.png" alt="Poké-Man">
+      <div align="center">
+        <a href="https://github.com/daryll-ko/poke-man" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
+        </a>
+        <a href="" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
+        </a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
+        <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&labelColor=262A33&color=262A33">
+        <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components&labelColor=262A33&color=262A33">
+      </div>
+      <p align="center">Poké-Man!</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">RecProg</h3>
+      <br>
+      <img src="assets/logo.png" alt="RecProg">
+      <div align="center">
+        <a href="https://github.com/daryll-ko/rec-prog" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
+        </a>
+        <a href="" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
+        </a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust&labelColor=262A33&color=262A33">
+      </div>
+      <p align="center">My recreational programming library!</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">AutoMaker</h3>
+      <br>
+      <img src="assets/logo.png" alt="AutoMaker">
+      <div align="center">
+        <a href="" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
+        </a>
+        <a href="" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
+        </a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
+        <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&labelColor=262A33&color=262A33">
+        <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components&labelColor=262A33&color=262A33">
+      </div>
+      <p align="center">AutoMaker!</p>
+    </td>
+  </tr>
+</table>
