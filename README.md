@@ -102,7 +102,7 @@ I like to keep my primary toolbelt (★) small, but I <i>am</i> familiar with a 
 
 <br>
 
-<h2>📌 Pins</h2>
+<h2>📌 Pins (under maintenance)</h2>
 
 Creations that I'm especially proud of!
 
