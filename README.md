@@ -32,7 +32,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <h2>⚙️ Tech Stack</h2>
 
-I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of things.
+I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of things:
 
 <br>
 
