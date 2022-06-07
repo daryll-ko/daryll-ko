@@ -21,8 +21,8 @@
 >
 > Ah, now truth is asleep in the darkness of the sinister hand.
 >
-> _Zero Escape: Nine Hours, Nine Persons, Nine Doors_
->
+
+_Zero Escape: Nine Hours, Nine Persons, Nine Doors_
 
 <h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
