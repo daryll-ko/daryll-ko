@@ -16,6 +16,14 @@
 
 <br>
 
+>
+> Truth had gone, truth had gone, truth had gone.
+>
+> Ah, now truth is asleep in the darkness of the sinister hand.
+>
+> _Zero Escape: Nine Hours, Nine Persons, Nine Doors_
+>
+
 <h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
 I'm a CS student specializing in web development (primarily frontend) and theoretical CS (theory of computation, algorithms & data structures).
@@ -105,12 +113,10 @@ I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of t
 <h2>✍ Notes to self</h2>
 
 - Kattis supports non-ancient Rust now, thank Arceus
-  - in line with this, try out I/O boilerplate
-- tidy up `rec-prog` before Su22 starts
-- include and Git-ify all Zettelkasten folders:
+  - I/O boilerplate works fine!
+- `rec-prog` -> `railgun` before Su22 starts
+- include and Git-ify other Zettelkasten folders:
   - `accelerator` (outputs)
   - `dark_matter` (inputs / research)
-  - `railgun` (competitive programming)
   - `meltdowner` (JP)
-- decide which of `rec-prog` and `railgun` to keep
-- make `hider` readable, and add additional hiders
+- make `hider` readable and add additional hiders
