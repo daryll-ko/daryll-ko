@@ -100,6 +100,8 @@ I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of t
   <img src="https://img.shields.io/static/v1?label=&logo=figma&message=Figma&labelColor=262A33&color=262A33">
 </div>
 
+<br>
+
 <h2>✍ Notes to self</h2>
 
 - tidy up `rec-prog` before Su22 starts
