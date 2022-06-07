@@ -110,4 +110,5 @@ I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of t
   - `dark_matter` (inputs / research)
   - `railgun` (competitive programming)
   - `meltdowner` (JP)
+- decide which of `rec-prog` and `railgun` to keep
 - make `hider` readable, and add additional hiders
