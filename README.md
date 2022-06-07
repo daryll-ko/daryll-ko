@@ -32,7 +32,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <h2>⚙️ Tech Stack</h2>
 
-I like to keep my primary toolbelt (★) small, but I <i>am</i> familiar with a lot of things.
+I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of things.
 
 <br>
 
@@ -99,96 +99,3 @@ I like to keep my primary toolbelt (★) small, but I <i>am</i> familiar with a 
   <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
   <img src="https://img.shields.io/static/v1?label=&logo=figma&message=Figma&labelColor=262A33&color=262A33">
 </div>
-
-<br>
-
-<h2>📌 Pins (under maintenance)</h2>
-
-Creations that I'm especially proud of!
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Voltorb Flip</h3>
-      <br>
-      <img src="assets/logo.png" alt="logo">
-      <div align="center">
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
-        </a>
-      </div>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
-        <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&labelColor=262A33&color=262A33">
-        <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components&labelColor=262A33&color=262A33">
-      </div>
-      <p align="center">Voltorb Flip!</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Poké-Man</h3>
-      <br>
-      <img src="assets/logo.png" alt="Poké-Man">
-      <div align="center">
-        <a href="https://github.com/daryll-ko/poke-man" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
-        </a>
-      </div>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
-        <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&labelColor=262A33&color=262A33">
-        <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components&labelColor=262A33&color=262A33">
-      </div>
-      <p align="center">Poké-Man!</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">RecProg</h3>
-      <br>
-      <img src="assets/logo.png" alt="RecProg">
-      <div align="center">
-        <a href="https://github.com/daryll-ko/rec-prog" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
-        </a>
-      </div>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust&labelColor=262A33&color=262A33">
-      </div>
-      <p align="center">My recreational programming library!</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">AutoMaker</h3>
-      <br>
-      <img src="assets/logo.png" alt="AutoMaker">
-      <div align="center">
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=github&message=Repo&labelColor=262A33&color=262A33">
-        </a>
-        <a href="" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/static/v1?label=&logo=netlify&message=Live&labelColor=262A33&color=262A33">
-        </a>
-      </div>
-      <br>
-      <div align="center">
-        <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
-        <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript&labelColor=262A33&color=262A33">
-        <img src="https://img.shields.io/static/v1?label=&logo=styledcomponents&message=styled-components&labelColor=262A33&color=262A33">
-      </div>
-      <p align="center">AutoMaker!</p>
-    </td>
-  </tr>
-</table>
