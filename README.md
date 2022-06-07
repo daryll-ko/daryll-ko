@@ -104,6 +104,8 @@ I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of t
 
 <h2>✍ Notes to self</h2>
 
+- Kattis supports non-ancient Rust now, thank Arceus
+  - in line with this, try out I/O boilerplate
 - tidy up `rec-prog` before Su22 starts
 - include and Git-ify all Zettelkasten folders:
   - `accelerator` (outputs)
