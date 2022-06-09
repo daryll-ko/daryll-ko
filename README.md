@@ -16,6 +16,8 @@
 
 <br>
 
+<div align="center">
+
 >
 > Truth had gone, truth had gone, truth had gone.
 >
@@ -23,6 +25,8 @@
 >
 
 _Zero Escape: Nine Hours, Nine Persons, Nine Doors_
+
+</div>
 
 <h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
