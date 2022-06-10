@@ -122,5 +122,4 @@ I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of t
 - include and Git-ify other Zettelkasten folders:
   - `accelerator` (outputs)
   - `dark_matter` (inputs / research)
-  - `meltdowner` (JP)
 - make `hider` readable and add additional hiders
