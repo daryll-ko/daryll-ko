@@ -119,7 +119,4 @@ I like to keep my primary toolbelt (★) small, but I'm familiar with a lot of t
 - Kattis supports non-ancient Rust now, thank Arceus
   - I/O boilerplate works fine!
 - `rec-prog` -> `railgun` before Su22 starts
-- include and Git-ify other Zettelkasten folders:
-  - `accelerator` (outputs)
-  - `dark_matter` (inputs / research)
-- make `hider` readable and add additional hiders
+  - also release `railgun_public` by then
