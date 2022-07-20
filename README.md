@@ -111,11 +111,3 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
   <img src="https://img.shields.io/static/v1?label=&logo=haskell&message=Haskell&labelColor=262A33&color=262A33">
   <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
 </div>
-
-<br>
-
-<h2>✍ Notes to self</h2>
-
-- migrate original library to `railgun_private`
-- upgrade `hider`
-- merge `accelerator` and `dark_matter`
