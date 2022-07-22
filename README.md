@@ -18,13 +18,11 @@
 
 <div align="center">
 
-  >
-  > Truth had gone, truth had gone, truth had gone.
-  >
-  > Ah, now truth is asleep in the darkness of the sinister hand.
-  >
-
-  _Zero Escape: Nine Hours, Nine Persons, Nine Doors_
+>
+> _There is much value in learning,_
+>
+> _but there is also much value in learning how to learn._
+>
 
 </div>
 
