@@ -26,8 +26,6 @@
 
 </div>
 
-<br>
-
 <h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
 I'm a computer science student who specializes in computational theory and web development.
