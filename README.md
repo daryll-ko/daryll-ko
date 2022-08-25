@@ -95,6 +95,20 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
 <br>
 
 <div align="center">
+  <h3>Data Science</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python ★&labelColor=262A33&color=262A33">
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Functional Programming</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=haskell&message=Haskell ★&labelColor=262A33&color=262A33">
+</div>
+
+<br>
+
+<div align="center">
   <h3>Meta</h3>
   <img src="https://img.shields.io/static/v1?label=&logo=git&message=Git ★&labelColor=262A33&color=262A33">
   <img src="https://img.shields.io/static/v1?label=&logo=github&message=GitHub ★&labelColor=262A33&color=262A33">
@@ -104,7 +118,7 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
 <br>
 
 <div align="center">
-  <h3>Others</h3>
-  <img src="https://img.shields.io/static/v1?label=&logo=haskell&message=Haskell&labelColor=262A33&color=262A33">
-  <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
+  <h3>Design</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=canva&message=Canva ★&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=figma&message=Figma&labelColor=262A33&color=262A33">
 </div>
