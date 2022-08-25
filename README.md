@@ -96,6 +96,11 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
 <div align="center">
   <h3>Data Science</h3>
   <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python ★&labelColor=262A33&color=262A33">
+  <br>
+  ↓
+  <br>
+  <img src="https://img.shields.io/static/v1?label=&logo=numpy&message=NumPy&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=pandas&message=Pandas&labelColor=262A33&color=262A33">
 </div>
 
 <br>
