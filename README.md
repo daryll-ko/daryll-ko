@@ -116,7 +116,6 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
   <h3>Meta</h3>
   <img src="https://img.shields.io/static/v1?label=&logo=git&message=Git ★&labelColor=262A33&color=262A33">
   <img src="https://img.shields.io/static/v1?label=&logo=github&message=GitHub ★&labelColor=262A33&color=262A33">
-  <img src="https://img.shields.io/static/v1?label=&logo=neovim&message=Neovim&labelColor=262A33&color=262A33">
 </div>
 
 <br>
