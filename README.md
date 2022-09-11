@@ -42,6 +42,8 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <h2>⚙️ Tech Stack</h2>
 
+I use a grand total of 2 applications for most of what I do: [VS Code](https://code.visualstudio.com/) and [Warp](https://www.warp.dev/).
+
 I like to keep my primary toolbelt (★) small, but I've familiarized myself with a lot of things:
 
 <br>
