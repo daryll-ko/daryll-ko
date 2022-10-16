@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/daryll.png" width="50%" alt="banner">
+  <img src="assets/daryll.jpeg" width="50%" alt="banner">
 </div>
 
 <div align="center">
