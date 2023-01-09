@@ -77,8 +77,8 @@ I like to keep my primary toolbelt (★) small (trust me, it's small), but I've 
     <img src="https://img.shields.io/static/v1?label=&logo=graphql&message=GraphQL&labelColor=262A33&color=262A33">
   </div>
   <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=cypress&message=Cypress ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=jest&message=Jest&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=jest&message=Jest ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=cypress&message=Cypress&labelColor=262A33&color=262A33">
   </div>
   <div>
     <img src="https://img.shields.io/static/v1?label=&logo=vite&message=Vite ★&labelColor=262A33&color=262A33">
