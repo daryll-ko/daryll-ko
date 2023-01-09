@@ -42,9 +42,9 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <h2>⚙️ Tech Stack</h2>
 
-I use a grand total of 2 applications for most of what I do: [VS Code](https://code.visualstudio.com/) and [Warp](https://www.warp.dev/).
+I only use 2 applications for most of what I do: [VS Code](https://code.visualstudio.com/) for writing code and [Warp](https://www.warp.dev/) for terminal wizardry.
 
-I like to keep my primary toolbelt (★) small, but I've familiarized myself with a lot of things:
+I like to keep my primary toolbelt (★) small (trust me, it's small), but I've familiarized myself with a lot of things:
 
 <br>
 
@@ -96,13 +96,9 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
 <br>
 
 <div align="center">
-  <h3>Data Science</h3>
-  <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python ★&labelColor=262A33&color=262A33">
-  <br>
-  ↓
-  <br>
-  <img src="https://img.shields.io/static/v1?label=&logo=numpy&message=NumPy&labelColor=262A33&color=262A33">
-  <img src="https://img.shields.io/static/v1?label=&logo=pandas&message=Pandas&labelColor=262A33&color=262A33">
+  <h3>Scientific Computing / Data Science</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=python&message=Julia ★&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
 </div>
 
 <br>
