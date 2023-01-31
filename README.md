@@ -81,16 +81,8 @@ I like to keep my primary toolbelt (★) small (trust me, it's small!), but I've
     <img src="https://img.shields.io/static/v1?label=&logo=jest&message=Jest&labelColor=262A33&color=262A33">
   </div>
   <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=vite&message=Vite ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=vite&message=Vite&labelColor=262A33&color=262A33">
   </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Systems Programming</h3>
-  <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust ★&labelColor=262A33&color=262A33">
-  <img src="https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2b%2b&labelColor=262A33&color=262A33">
 </div>
 
 <br>
@@ -99,6 +91,15 @@ I like to keep my primary toolbelt (★) small (trust me, it's small!), but I've
   <h3>Scientific Computing & Data Science</h3>
   <img src="https://img.shields.io/static/v1?label=&logo=python&message=Julia ★&labelColor=262A33&color=262A33">
   <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Systems Programming</h3>
+  <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust ★&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2b%2b&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=c&message=C&labelColor=262A33&color=262A33">
 </div>
 
 <br>
@@ -113,7 +114,8 @@ I like to keep my primary toolbelt (★) small (trust me, it's small!), but I've
 <div align="center">
   <h3>Meta</h3>
   <img src="https://img.shields.io/static/v1?label=&logo=git&message=Git ★&labelColor=262A33&color=262A33">
-  <img src="https://img.shields.io/static/v1?label=&logo=github&message=GitHub ★&labelColor=262A33&color=262A33">
+  <img src="https://img.shields.io/static/v1?label=&logo=npm&message=npm ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=pnpm&message=pnpm&labelColor=262A33&color=262A33">
 </div>
 
 <br>
