@@ -4,102 +4,102 @@ stack:
       - tech:
         - icon: html5
           name: HTML
-          star: No
+          star: false
       - tech:
         - icon: tailwindcss
           name: Tailwind CSS
-          star: Yes
+          star: true
         - icon: css3
           name: CSS
-          star: No
+          star: false
       - tech:
         - icon: typescript
           name: TypeScript
-          star: Yes
+          star: true
         - icon: javascript
           name: JavaScript
-          star: No
+          star: false
       - tech:
         - icon: nextdotjs
           name: Next.js
-          star: Yes
+          star: true
         - icon: react
           name: React
-          star: No
+          star: false
       - tech:
         - icon: express
           name: Express
-          star: No
+          star: false
         - icon: nodedotjs
-          name: Node.js
-          star: No
+          name: falsede.js
+          star: false
       - tech:
         - icon: redis
           name: Redis
-          star: No
+          star: false
         - icon: mongodb
           name: MongoDB
-          star: No
+          star: false
       - tech:
         - icon: graphql
           name: GraphQL
-          star: No
+          star: false
       - tech:
         - icon: playwright
           name: Playwright
-          star: Yes
+          star: true
         - icon: jest
           name: Jest
-          star: No
+          star: false
       - tech:
         - icon: vite
           name: Vite
-          star: No
+          star: false
   - section: Scientific Computing & Data Science
     blocks:
       - tech:
         - icon: julia
           name: Julia
-          star: Yes
+          star: true
         - icon: python
           name: Python
-          star: No
+          star: false
   - section: Systems Programming
     blocks:
       - tech:
         - icon: rust
           name: Rust
-          star: Yes
+          star: true
         - icon: cplusplus
           name: C%2b%2b
-          star: No
+          star: false
         - icon: c
           name: C
-          star: No
+          star: false
   - section: Functional Programming
     blocks:
       - tech:
         - icon: haskell
           name: Haskell
-          star: Yes
+          star: true
   - section: Meta
     blocks:
       - tech:
         - icon: git
           name: Git
-          star: Yes
+          star: true
         - icon: npm
           name: npm
-          star: Yes
+          star: true
         - icon: pnpm
           name: pnpm
-          star: No
+          star: false
   - section: Design
     blocks:
       - tech:
         - icon: figma
           name: Figma
-          star: Yes
+          star: true
         - icon: canva
           name: Canva
-          star: No
+          star: false
