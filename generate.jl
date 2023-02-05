@@ -13,7 +13,7 @@ function main()
                 name = tech["name"]
                 star = tech["star"]
                 line = """
-$(' '^4)<img src="https://img.shields.io/static/v1?label=&logo=$icon&message=$name$(star && " ★")&labelColor=262A33&color=262A33">"""
+$(' '^4)<img src="https://img.shields.io/static/v1?label=&logo=$icon&message=$name$(star ? " ★" : "")&labelColor=262A33&color=262A33">"""
                 push!(raw_lines, line)
             end
             block = """
