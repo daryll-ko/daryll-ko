@@ -1,0 +1,105 @@
+stack:
+  - section: Web Development
+    blocks:
+      - tech:
+        - icon: html5
+          name: HTML
+          star: No
+      - tech:
+        - icon: tailwindcss
+          name: Tailwind CSS
+          star: Yes
+        - icon: css3
+          name: CSS
+          star: No
+      - tech:
+        - icon: typescript
+          name: TypeScript
+          star: Yes
+        - icon: javascript
+          name: JavaScript
+          star: No
+      - tech:
+        - icon: nextdotjs
+          name: Next.js
+          star: Yes
+        - icon: react
+          name: React
+          star: No
+      - tech:
+        - icon: express
+          name: Express
+          star: No
+        - icon: nodedotjs
+          name: Node.js
+          star: No
+      - tech:
+        - icon: redis
+          name: Redis
+          star: No
+        - icon: mongodb
+          name: MongoDB
+          star: No
+      - tech:
+        - icon: graphql
+          name: GraphQL
+          star: No
+      - tech:
+        - icon: playwright
+          name: Playwright
+          star: Yes
+        - icon: jest
+          name: Jest
+          star: No
+      - tech:
+        - icon: vite
+          name: Vite
+          star: No
+  - section: Scientific Computing & Data Science
+    blocks:
+      - tech:
+        - icon: julia
+          name: Julia
+          star: Yes
+        - icon: python
+          name: Python
+          star: No
+  - section: Systems Programming
+    blocks:
+      - tech:
+        - icon: rust
+          name: Rust
+          star: Yes
+        - icon: cplusplus
+          name: C%2b%2b
+          star: No
+        - icon: c
+          name: C
+          star: No
+  - section: Functional Programming
+    blocks:
+      - tech:
+        - icon: haskell
+          name: Haskell
+          star: Yes
+  - section: Meta
+    blocks:
+      - tech:
+        - icon: git
+          name: Git
+          star: Yes
+        - icon: npm
+          name: npm
+          star: Yes
+        - icon: pnpm
+          name: pnpm
+          star: No
+  - section: Design
+    blocks:
+      - tech:
+        - icon: figma
+          name: Figma
+          star: Yes
+        - icon: canva
+          name: Canva
+          star: No
