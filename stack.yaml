@@ -31,7 +31,7 @@ stack:
           name: Express
           star: false
         - icon: nodedotjs
-          name: falsede.js
+          name: Node.js
           star: false
       - tech:
         - icon: redis
