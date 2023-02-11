@@ -47,7 +47,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 I only use 2 applications for most of what I do: [VS Code](https://code.visualstudio.com/) for writing code and [Warp](https://www.warp.dev/) for terminal wizardry. In case of VS Code emergencies, I can fall back on [neovim](https://neovim.io/).
 
-I like to keep my primary toolbelt (★) small (trust me, it's small!), but I've familiarized myself with a lot of things:
+I like to keep my primary toolbelt (★) small, but I've familiarized myself with a lot of things:
 
 <br>
 
