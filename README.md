@@ -45,7 +45,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <h2>⚙️ Tech Stack</h2>
 
-I only use 2 applications for most of what I do: [VS Code](https://code.visualstudio.com/) for writing code and [Warp](https://www.warp.dev/) for terminal wizardry.
+I only use 3 applications for most of what I do: [VS Code](https://code.visualstudio.com/) for writing code, [Warp](https://www.warp.dev/) for terminal wizardry, and [Helix Editor](https://helix-editor.com/) inside Warp if I don't feel like using VS Code.
 
 I like to keep my primary toolbelt (★) small, but I've familiarized myself with a lot of things:
 
