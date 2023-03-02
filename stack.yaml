@@ -88,11 +88,8 @@ stack:
         - icon: git
           name: Git
           star: true
-        - icon: npm
-          name: npm
-          star: true
-        - icon: pnpm
-          name: pnpm
+        - icon: neovim
+          name: Neovim
           star: false
   - section: Design
     blocks:
