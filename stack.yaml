@@ -70,11 +70,11 @@ stack:
         - icon: rust
           name: Rust
           star: true
-        - icon: cplusplus
-          name: C%2b%2b
-          star: false
         - icon: c
           name: C
+          star: false
+        - icon: cplusplus
+          name: C%2b%2b
           star: false
   - section: Functional Programming
     blocks:

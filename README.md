@@ -104,8 +104,8 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
   <h3>Systems Programming</h3>
   <div>
     <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2b%2b&labelColor=262A33&color=262A33">
     <img src="https://img.shields.io/static/v1?label=&logo=c&message=C&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2b%2b&labelColor=262A33&color=262A33">
   </div>
 </div>
 
