@@ -49,6 +49,10 @@ I only use 3 applications for most of what I do: [VS Code](https://code.visualst
 
 I like to keep my primary toolbelt (★) small, but I've familiarized myself with a lot of things:
 
+<details>
+
+<summary>Click me!</summary>
+
 <br>
 
 <div align="center">
@@ -137,3 +141,5 @@ I like to keep my primary toolbelt (★) small, but I've familiarized myself wit
     <img src="https://img.shields.io/static/v1?label=&logo=canva&message=Canva&labelColor=262A33&color=262A33">
   </div>
 </div>
+
+</details>
