@@ -46,6 +46,8 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <summary>Click me!</summary>
 
+<br>
+
 | Platform    | Status | Notes                                                                    |
 | ----------- | ------ | ------------------------------------------------------------------------ |
 | AniList     | √      |                                                                          |
