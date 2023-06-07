@@ -40,6 +40,33 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <br>
 
+<h2>🔎 Where to find me</h2>
+
+<details>
+
+<summary>Click me!</summary>
+
+| Platform    | Status | Notes                                                                    |
+| ----------- | ------ | ------------------------------------------------------------------------ |
+| AniList     | √      |                                                                          |
+| Bookmeter   | √      |                                                                          |
+| Discord     | √      |                                                                          |
+| Facebook    | x      | I only use it for uni-related stuff and updating my profile, so...       |
+| GitHub      | √      |                                                                          |
+| GitLab      | x      | I don't use it                                                           |
+| Instagram   | x      | I don't use it                                                           |
+| LinkedIn    | ~      | I rarely use it                                                          |
+| Messenger   | ~      | I only use it for uni-related stuff (+ only if I know you from Facebook) |
+| MyAnimeList | x      | I don't use it                                                           |
+| Reddit      | x      | I don't use it                                                           |
+| Steam       | x      | I don't use it                                                           |
+| TikTok      | x      | I don't use it                                                           |
+| Twitter     | √      |                                                                          |
+
+</details>
+
+<br>
+
 <h2>⚙️ Tech Stack</h2>
 
 I only use 3 applications for most of what I do: [VS Code](https://code.visualstudio.com/) for writing code, [Warp](https://www.warp.dev/) for terminal wizardry, and [Helix Editor](https://helix-editor.com/) inside Warp if I don't feel like using VS Code.
