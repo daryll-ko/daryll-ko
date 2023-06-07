@@ -54,8 +54,8 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 | Facebook    | x      | I only use it for uni-related stuff and updating my profile, so...       |
 | GitHub      | √      |                                                                          |
 | GitLab      | x      | I don't use it                                                           |
-| Instagram   | x      | I don't use it                                                           |
 | Hacker News | x      | read-only                                                                |
+| Instagram   | x      | I don't use it                                                           |
 | LinkedIn    | ~      | I rarely use it                                                          |
 | Messenger   | ~      | I only use it for uni-related stuff (+ only if I know you from Facebook) |
 | MyAnimeList | x      | I don't use it                                                           |
