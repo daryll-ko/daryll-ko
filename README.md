@@ -18,11 +18,9 @@
 
 <div align="center">
 
->
 > _There is much value in learning,_
 >
 > _but there is also much value in learning how to learn._
->
 
 </div>
 
@@ -57,6 +55,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 | GitHub      | √      |                                                                          |
 | GitLab      | x      | I don't use it                                                           |
 | Instagram   | x      | I don't use it                                                           |
+| Hacker News | x      | read-only                                                                |
 | LinkedIn    | ~      | I rarely use it                                                          |
 | Messenger   | ~      | I only use it for uni-related stuff (+ only if I know you from Facebook) |
 | MyAnimeList | x      | I don't use it                                                           |
