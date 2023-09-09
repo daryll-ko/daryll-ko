@@ -47,7 +47,9 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 <br>
 
 ✅ = I use it regularly, feel free to reach out!
+
 ❌ = I don't use it
+
 ✏️ = Circumstantial, check `Notes`
 
 | `Platform`  | `Status` | `Notes`                                                            |
