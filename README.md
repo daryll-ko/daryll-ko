@@ -46,25 +46,30 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <br>
 
-| Platform    | Status | Notes                                                                    |
-| ----------- | ------ | ------------------------------------------------------------------------ |
-| AniList     | √      |                                                                          |
-| Bookmeter   | √      |                                                                          |
-| Discord     | √      |                                                                          |
-| Email       | √      |                                                                          |
-| Facebook    | x      | I only use it for uni-related stuff and updating my profile, so...       |
-| GitHub      | √      |                                                                          |
-| GitLab      | x      | I don't use it                                                           |
-| Hacker News | x      | read-only                                                                |
-| Instagram   | x      | I don't use it                                                           |
-| LinkedIn    | ~      | I rarely use it                                                          |
-| Mastodon    | x      | I don't use it                                                           |
-| Messenger   | ~      | I only use it for uni-related stuff (+ only if I know you from Facebook) |
-| MyAnimeList | x      | I don't use it                                                           |
-| Reddit      | x      | I don't use it                                                           |
-| Steam       | x      | I don't use it                                                           |
-| TikTok      | x      | I don't use it                                                           |
-| Twitter     | √      |                                                                          |
+✅ = I use it regularly, feel free to reach out!
+❌ = I don't use it
+✏️ = Circumstantial, check `Notes`
+
+| `Platform`  | `Status` | `Notes`                                                            |
+| ----------- | -------- | ------------------------------------------------------------------ |
+| AniList     | ✅       |                                                                    |
+| Bookmeter   | ✅       |                                                                    |
+| Discord     | ✅       |                                                                    |
+| Email       | ✅       |                                                                    |
+| Facebook    | ✏️       | I only use it for uni-related stuff and updating my profile, so... |
+| GitHub      | ✅       |                                                                    |
+| GitLab      | ❌       |                                                                    |
+| Hacker News | ❌       |                                                                    |
+| Instagram   | ❌       |                                                                    |
+| LinkedIn    | ✏️       | I rarely use it                                                    |
+| Mastodon    | ❌       |                                                                    |
+| Messenger   | ✏️       | ✅ iff I know you                                                  |
+| MyAnimeList | ❌       |                                                                    |
+| Reddit      | ❌       |                                                                    |
+| Steam       | ❌       |                                                                    |
+| TikTok      | ❌       |                                                                    |
+| Threads     | ❌       |                                                                    |
+| Twitter     | ✅       |                                                                    |
 
 </details>
 
