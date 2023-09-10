@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="banner">
+  <img src="assets/elaina.jpeg" alt="banner">
 </div>
 
 <div align="center">
