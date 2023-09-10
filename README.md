@@ -2,18 +2,6 @@
   <img src="assets/elaina.jpeg" alt="banner">
 </div>
 
-<div align="center">
-  <a href="https://daryllko.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?label=&logo=google earth&message=Website&labelColor=262A33&color=262A33">
-  </a>
-  <a href="https://twitter.com/daryll_ko" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?label=&logo=twitter&message=Twitter&labelColor=262A33&color=262A33">
-  </a>
-  <a href="https://anilist.co/user/daryll" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?label=&logo=anilist&message=AniList&labelColor=262A33&color=262A33">
-  </a>
-</div>
-
 <br>
 
 <div align="center">
