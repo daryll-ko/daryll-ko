@@ -82,21 +82,3 @@ stack:
         - icon: haskell
           name: Haskell
           star: true
-  - section: Meta
-    blocks:
-      - tech:
-        - icon: git
-          name: Git
-          star: true
-        - icon: neovim
-          name: Neovim
-          star: false
-  - section: Design
-    blocks:
-      - tech:
-        - icon: figma
-          name: Figma
-          star: true
-        - icon: canva
-          name: Canva
-          star: false

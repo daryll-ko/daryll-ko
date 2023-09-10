@@ -144,24 +144,4 @@ The tools I usually play with are in the dropdown below:
   </div>
 </div>
 
-<br>
-
-<div align="center">
-  <h3>Meta</h3>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=git&message=Git ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=neovim&message=Neovim&labelColor=262A33&color=262A33">
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Design</h3>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=figma&message=Figma ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=canva&message=Canva&labelColor=262A33&color=262A33">
-  </div>
-</div>
-
 </details>
