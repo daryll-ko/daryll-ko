@@ -42,9 +42,9 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 | `Platform`  | `Status` | `Notes`                                                            |
 | ----------- | -------- | ------------------------------------------------------------------ |
-| AniList     | ✅       |                                                                    |
-| Bookmeter   | ✅       |                                                                    |
-| Discord     | ✅       |                                                                    |
+| AniList     | ✅       | [`Daryll`](https://anilist.co/user/Daryll/)                        |
+| Bookmeter   | ✅       | `ユイ`                                                             |
+| Discord     | ✅       | `Daryll (_daryll_)`                                                |
 | Email       | ✅       |                                                                    |
 | Facebook    | ✏️       | I only use it for uni-related stuff and updating my profile, so... |
 | GitHub      | ✅       |                                                                    |
@@ -59,7 +59,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 | Steam       | ❌       |                                                                    |
 | TikTok      | ❌       |                                                                    |
 | Threads     | ❌       |                                                                    |
-| Twitter     | ✅       |                                                                    |
+| Twitter     | ✅       | [`@daryll_ko`](https://twitter.com/daryll_ko)                      |
 
 </details>
 
