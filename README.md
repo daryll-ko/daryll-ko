@@ -57,8 +57,8 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 | MyAnimeList | ❌       |                                                                    |
 | Reddit      | ❌       |                                                                    |
 | Steam       | ❌       |                                                                    |
-| TikTok      | ❌       |                                                                    |
 | Threads     | ❌       |                                                                    |
+| TikTok      | ❌       |                                                                    |
 | Twitter     | ✅       | [`@daryll_ko`](https://twitter.com/daryll_ko)                      |
 
 </details>
