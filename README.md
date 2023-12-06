@@ -106,7 +106,7 @@ The tools I usually play with are in the dropdown below:
     <img src="https://img.shields.io/static/v1?label=&logo=graphql&message=GraphQL&labelColor=262A33&color=262A33">
   </div>
   <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=playwright&message=Playwright ★&labelColor=262A33&color=262A33">
+    <img src="https://img.shields.io/static/v1?label=&logo=playwright&message=Playwright&labelColor=262A33&color=262A33">
     <img src="https://img.shields.io/static/v1?label=&logo=jest&message=Jest&labelColor=262A33&color=262A33">
   </div>
   <div>
