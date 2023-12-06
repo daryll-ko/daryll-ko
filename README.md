@@ -67,7 +67,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <h2>⚙️ Tech Stack</h2>
 
-I edit stuff using [Vim](https://www.vim.org/). I use [kitty](https://sw.kovidgoyal.net/kitty/) as my terminal emulator. MacOS makes all the magic happen!
+I use [Vim](https://www.vim.org/) as my editor and [kitty](https://sw.kovidgoyal.net/kitty/) as my terminal emulator. MacOS makes all the magic happen!
 
 The tools I usually play with are in the dropdown below:
 
