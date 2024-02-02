@@ -5,24 +5,16 @@
 <br>
 
 <div align="center">
-
-> _There is much value in learning,_
->
-> _but there is also much value in learning how to learn._
-
+「話はまだまだ続く。続くったら続く！」
 </div>
 
 <h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
-I'm a computer science student who specializes in computational theory and web development.
+I'm a computer science student who finds the math and language parts of CS fascinating. I currently serve as an intern in one of my department's research laboratories: I investigate models of computation inspired by biology and write software to streamline these investigations. I also help out in my department's general affairs as a student assistant, and dabble in a bit of web development on the side when I feel like it.
 
-My life philosophy is centered on simplicity and organization, and I think CS is a fantastic field to explore in order to develop this philosophy.
+Aside from toying with code, I really like reading light novels and watching anime (I've been told I consume obscene amounts of these; oh well). I also get addicted to puzzle games and meta/philosophy articles from time to time. Oh, I also can't do sports for the life of me.
 
-My hobbies include thought-dumping, learning about learning, and raving about Japanese culture. Programming is cool and all, but these seemingly divergent activities have only made the journey cooler!
-
-I could go on and on about these things, but I think it'd be better to let you take a look around for yourself.
-
-Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so! ꒰ ･‿･๑ ꒱
+Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so! ^^
 
 <br>
 
