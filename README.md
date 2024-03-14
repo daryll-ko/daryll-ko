@@ -10,7 +10,7 @@
 
 <h2>🙍🏻‍♂️ Hi! I'm Daryll.</h2>
 
-I'm a computer science student who finds the math and language parts of CS fascinating. I currently serve as an intern in one of my department's research laboratories: I investigate models of computation inspired by biology and write software to streamline these investigations. I also help out in some of my department's courses as a student assistant, and dabble in a bit of web development on the side when I feel like it.
+I'm a computer science student who finds the math and language parts of CS fascinating. I currently serve as an intern in one of my department's research laboratories: I investigate models of computation inspired by biology and write software to streamline these investigations. I also help out in some of my department's courses, and dabble in a bit of web development on the side when I feel like it.
 
 Aside from toying with code, I really like reading light novels and watching anime (I've been told I consume obscene amounts of these; oh well). I also get addicted to puzzle games and meta/philosophy articles from time to time. Oh, I also can't do sports for the life of me.
 
