@@ -41,7 +41,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 | Facebook    | ✏️       | I only use it for uni-related stuff and updating my profile, so... |
 | GitHub      | ✅       |                                                                    |
 | GitLab      | ❌       |                                                                    |
-| Hacker News | ❌       |                                                                    |
+| Hacker News | ❌       | read-only                                                          |
 | Instagram   | ❌       |                                                                    |
 | LinkedIn    | ✏️       | I rarely use it                                                    |
 | Mastodon    | ❌       |                                                                    |
