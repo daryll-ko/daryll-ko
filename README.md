@@ -12,7 +12,7 @@
 
 I'm a computer science student who finds the math and language parts of CS fascinating. I currently serve as a member of our department's [Algorithms and Complexity Laboratory](https://aclab.dcs.upd.edu.ph/), where I investigate nonstandard models of computation. I also help out with various stuff as an ordinary CS student: from making problem sets for various courses to giving lectures and talks on different aspects of life in Computer Science.
 
-Aside from toying with code, I really like reading light novels and watching anime (I've been told I consume obscene amounts of these; oh well). I also get addicted to puzzle games, explainers, and meta articles from time to time. Oh, I also can't do sports for the life of me.
+Aside from toying with code, I really like reading light novels and watching anime (I've been told I consume obscene amounts of these; oh well). I also get addicted to puzzle games like the [Professor Layton series](https://en.wikipedia.org/wiki/Professor_Layton) or explainers and meta articles on [Hacker News](https://news.ycombinator.com/) from time to time. Oh, I also can't do sports for the life of me.
 
 Life is about enjoying the journey, and I hope this place gives you a glimpse of how I do so! ^^
 
