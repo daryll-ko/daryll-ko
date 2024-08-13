@@ -57,83 +57,10 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 
 <br>
 
-<h2>⚙️ Tech Stack</h2>
+<h2>🧰 Toolbox</h2>
 
-I use [Vim](https://www.vim.org/) as my editor and [kitty](https://sw.kovidgoyal.net/kitty/) as my terminal emulator. MacOS makes all the magic happen!
+- Editors: [Vim](https://www.vim.org/), [Neovim](https://neovim.io/), and [VS Code](https://code.visualstudio.com/) (yes, all 3)
+- OS: MacOS
+- Package manager: [Homebrew](https://brew.sh/)
+- Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
 
-The tools I usually play with are in the dropdown below:
-
-<details>
-
-<summary>Click me!</summary>
-
-<br>
-
-<div align="center">
-  <h3>Web Development</h3>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=html5&message=HTML&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=tailwindcss&message=Tailwind CSS ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=css3&message=CSS&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=typescript&message=TypeScript ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=javascript&message=JavaScript&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=nextdotjs&message=Next.js ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=react&message=React&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=express&message=Express&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=nodedotjs&message=Node.js&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=redis&message=Redis&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=mongodb&message=MongoDB&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=graphql&message=GraphQL&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=playwright&message=Playwright&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=jest&message=Jest&labelColor=262A33&color=262A33">
-  </div>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=vite&message=Vite&labelColor=262A33&color=262A33">
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Scientific Computing & Data Science</h3>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=julia&message=Julia ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=python&message=Python&labelColor=262A33&color=262A33">
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Systems Programming</h3>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=rust&message=Rust ★&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=c&message=C&labelColor=262A33&color=262A33">
-    <img src="https://img.shields.io/static/v1?label=&logo=cplusplus&message=C%2b%2b&labelColor=262A33&color=262A33">
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Functional Programming</h3>
-  <div>
-    <img src="https://img.shields.io/static/v1?label=&logo=haskell&message=Haskell ★&labelColor=262A33&color=262A33">
-  </div>
-</div>
-
-</details>
