@@ -2,83 +2,83 @@ stack:
   - section: Web Development
     blocks:
       - tech:
-        - icon: html5
-          name: HTML
-          star: false
+          - icon: html5
+            name: HTML
+            star: false
       - tech:
-        - icon: tailwindcss
-          name: Tailwind CSS
-          star: true
-        - icon: css3
-          name: CSS
-          star: false
+          - icon: tailwindcss
+            name: Tailwind CSS
+            star: true
+          - icon: css3
+            name: CSS
+            star: false
       - tech:
-        - icon: typescript
-          name: TypeScript
-          star: true
-        - icon: javascript
-          name: JavaScript
-          star: false
+          - icon: typescript
+            name: TypeScript
+            star: true
+          - icon: javascript
+            name: JavaScript
+            star: false
       - tech:
-        - icon: nextdotjs
-          name: Next.js
-          star: true
-        - icon: react
-          name: React
-          star: false
+          - icon: nextdotjs
+            name: Next.js
+            star: true
+          - icon: react
+            name: React
+            star: false
       - tech:
-        - icon: express
-          name: Express
-          star: false
-        - icon: nodedotjs
-          name: Node.js
-          star: false
+          - icon: express
+            name: Express
+            star: false
+          - icon: nodedotjs
+            name: Node.js
+            star: false
       - tech:
-        - icon: redis
-          name: Redis
-          star: false
-        - icon: mongodb
-          name: MongoDB
-          star: false
+          - icon: redis
+            name: Redis
+            star: false
+          - icon: mongodb
+            name: MongoDB
+            star: false
       - tech:
-        - icon: graphql
-          name: GraphQL
-          star: false
+          - icon: graphql
+            name: GraphQL
+            star: false
       - tech:
-        - icon: playwright
-          name: Playwright
-          star: true
-        - icon: jest
-          name: Jest
-          star: false
+          - icon: playwright
+            name: Playwright
+            star: true
+          - icon: jest
+            name: Jest
+            star: false
       - tech:
-        - icon: vite
-          name: Vite
-          star: false
+          - icon: vite
+            name: Vite
+            star: false
   - section: Scientific Computing & Data Science
     blocks:
       - tech:
-        - icon: julia
-          name: Julia
-          star: true
-        - icon: python
-          name: Python
-          star: false
+          - icon: julia
+            name: Julia
+            star: true
+          - icon: python
+            name: Python
+            star: false
   - section: Systems Programming
     blocks:
       - tech:
-        - icon: rust
-          name: Rust
-          star: true
-        - icon: c
-          name: C
-          star: false
-        - icon: cplusplus
-          name: C%2b%2b
-          star: false
+          - icon: rust
+            name: Rust
+            star: true
+          - icon: c
+            name: C
+            star: false
+          - icon: cplusplus
+            name: C%2b%2b
+            star: false
   - section: Functional Programming
     blocks:
       - tech:
-        - icon: haskell
-          name: Haskell
-          star: true
+          - icon: haskell
+            name: Haskell
+            star: true

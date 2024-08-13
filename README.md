@@ -67,4 +67,3 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 - OS: MacOS
 - Package manager: [Homebrew](https://brew.sh/)
 - Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
-
