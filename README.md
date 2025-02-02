@@ -60,7 +60,7 @@ Life is about enjoying the journey, and I hope this place gives you a glimpse of
 <h2>🧰 Toolbox</h2>
 
 - Editors: [Neovim](https://neovim.io/) and [VS Code](https://code.visualstudio.com/) (yes, both)
-- Fonts: [Quicksand](https://fonts.google.com/specimen/Quicksand) for English, [Klee One](https://fonts.google.com/specimen/Klee+One) for Japanese, [SF Mono](https://developer.apple.com/fonts/) for monospace
+- Fonts: [Klee One](https://fonts.google.com/specimen/Klee+One) for Japanese, [SF Mono](https://developer.apple.com/fonts/) for monospace
 - Gacha game: [Blue Archive](https://bluearchive.nexon.com/home)
 - Keyboard: QWERTY
 - Languages: English, Japanese, Tagalog
