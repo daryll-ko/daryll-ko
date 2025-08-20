@@ -14,7 +14,7 @@ I'm a computer science ~~student~~ _sensei_ who finds the math and language part
 
 Aside from toying with code, I really like watching anime and reading light novels (I've been told I consume obscene amounts of these; oh well). I also get addicted to puzzle games like the [Professor Layton series](https://en.wikipedia.org/wiki/Professor_Layton), reality shows like [The Genius (더 지니어스)](https://en.wikipedia.org/wiki/The_Genius_(TV_series)), and articles on [Hacker News](https://news.ycombinator.com/) from time to time.
 
-I am an insane [Blue Archive](https://en.wikipedia.org/wiki/Blue_Archive) fan, in the most literal sense of the word. Kidding aside, it's one of the main reasons I became a _sensei_.
+I am an insane [Blue Archive](https://en.wikipedia.org/wiki/Blue_Archive) fan, in the most literal sense of the word. Kidding aside, it's one of the main reasons I became a teacher.
 
 Oh, I also can't do sports for the life of me.
 
